@@ -1,6 +1,7 @@
 # MAMBO
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cd2a8c35-486c-47eb-b562-cefc78ffb7ba" />
 
-MAMBO is achronym for Matrix A, Matrix B operations. A calculator to solve Basic Operations over Matrices like $A \times B$, $A + B$ etc. This is aExecutable  CLI Terminal Binary Made with Rust.
+MAMBO is achronym for `Matrix A Matrix B Operations. A calculator to solve Basic Operations over Matrices like $A \times B$, $A + B$ etc. This is aExecutable  CLI Terminal Binary Made with Rust.
 
 ## Features
 
